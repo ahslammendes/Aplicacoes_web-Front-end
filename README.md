@@ -12,8 +12,6 @@ Organizar referências de código aberto desenvolvidas no Brasil, facilitando es
 projetos-brasileiros-api/
 ├── README.md
 
-```
-
 Cada pasta representa um projeto hospedado no GitHub focado no desenvolvimento ou consumo de APIs.
 
 ## 📖 Conteúdo
