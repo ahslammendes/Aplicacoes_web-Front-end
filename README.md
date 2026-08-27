@@ -60,7 +60,3 @@ As tecnologias abaixo são amplamente utilizadas para construir essas integraç�
 ## 📌 Objetivo Final
 
 Construir uma base sólida de conhecimento avaliando projetos reais do ecossistema open source, servindo como material de consulta para arquitetura de software e consumo seguro de APIs.
-
-```
-
-```
