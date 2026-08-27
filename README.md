@@ -14,7 +14,7 @@ projetos-brasileiros-api/
 
 ```
 
-Cada pasta representa um projeto independente hospedado no GitHub focado no desenvolvimento ou consumo de APIs.
+Cada pasta representa um projeto hospedado no GitHub focado no desenvolvimento ou consumo de APIs.
 
 ## 📖 Conteúdo
 
@@ -25,8 +25,6 @@ Cada pasta representa um projeto independente hospedado no GitHub focado no dese
 * 🔗 Referências para estudo de microsserviços
 
 ## 🚀 Projetos Open Source
-
-Lista dos repositórios brasileiros e seguros estruturados conforme a sua integração com APIs.
 
 | # | Projeto | Descrição | Repositório | Interação com APIs |
 | --- | --- | --- | --- | --- |
