@@ -1,6 +1,4 @@
 # Aplicacoes_web-Front-end
-# Aplicacoes_web-Front-end
-Aqui está a lista que você enviou perfeitamente organizada no seu modelo de Markdown, com os links dos repositórios gerados a partir dos nomes de usuário e projetos indicados:
 
 ```markdown
 # 📚 Projetos Brasileiros com API
