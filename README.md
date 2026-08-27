@@ -13,10 +13,6 @@ Organizar referências de código aberto desenvolvidas no Brasil, facilitando es
 ```text
 projetos-brasileiros-api/
 ├── README.md
-├── BrasilAPI/
-├── RocketChat/
-├── MinhaReceita/
-└── ...
 
 ```
 
@@ -59,7 +55,7 @@ As tecnologias abaixo são amplamente utilizadas para construir essas integraç�
 
 ## 🎓 Foco de Estudo
 
-**Integração e Orquestração de APIs em Larga Escala**
+**Integração e Orquestração de APIs**
 
 ## 📌 Objetivo Final
 
