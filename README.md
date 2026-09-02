@@ -1,6 +1,7 @@
 # Aplicacoes_web-Front-end
 
 ```markdown
+````
 # 📚 Projetos Brasileiros com API
 > Repositório dedicado a listar **Projetos Open Source Brasileiros** de alta maturidade focados em orquestração de microsserviços, automação e consumo de dados públicos via **APIs**.
 
@@ -8,7 +9,7 @@
 Organizar referências de código aberto desenvolvidas no Brasil, facilitando estudos de arquitetura e documentando exemplos práticos de integração segura com APIs.
 
 ## 📂 Estrutura
-```text
+
 projetos-brasileiros-api/
 ├── README.md
 
